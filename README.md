@@ -276,7 +276,7 @@ Hasil dari source code contoh diatas akan seperti berikut :<br>
 >Secara Default,**.format()** menggunakan rata text ke kiri, angka ke kanan, kita dapat menggunakan opsi opsional<,^,atau 
 > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan **.format()** sebagai berikut : <br>
 ``` python
-print('{:<30}{:30}{:>30}'.format('mobil','ufo','Helikopter'))
+print('{:<30}{:30}{:>30}'.format('mobil','motor','Helikopter'))
 print('{:<30}{:30}{:>30}'.format(10,20,25))
 
 ```
@@ -288,8 +288,8 @@ Hasil dari source code contoh diatas akan muncul seperti ini :<br>
 * Konversi Nilai Variable <br>
 Untuk pembahasan terakhir, kali ini akan menyelesaikan tugas Lab 2 dari Dosen, yaitu konversi Nilai Variable<br>
 
-Tugas 
-![Picture Lab 2](Gambar1/variabel.png)
+Tugas
+![Picture Lab 2](foto/variabel.png)
 ``` python
 a=input("masukkan nilai a : ")
 b=input("masukkan nilai b : ")
