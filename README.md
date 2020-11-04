@@ -51,7 +51,7 @@ print("==============================") <br>
 
 `print("\n\n Assalamu'alaikum. ")` <br>
 print(f"Let me introduce my self, my name is {SHOBAHUS SOLICHIN}, but you can call me {SHOBA}, my NPM {31201006}, I was 
-born in{JAKARTA} and   iam {2020} years old, I am very glad if you want to invite my house in {Perum.Citra Graha Prima}, 
+born in{JAKARTA} and   i am {19} years old, I am very glad if you want to invite my house in {Perum.Citra Graha Prima}, 
 So don't forget to call me before with the number {081297995301}, \n\n Thanks you ")
 
 ```
@@ -82,7 +82,7 @@ berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
 saat kita menekan tombol enter *(newline)*<br> 
  *(newline)*<br>
 
-[input](Gambar1/printnama.PNG)<br>
+[input](foto/printnama.PNG)<br>
 pada gambar di atas, hasil dari inputan tersebut berwarna *hijau*<br><br>
 * Untuk memasukan perintah lain seperti *Nikname, NPM, Place Of Birth, Date Of Birth, Year Of Birth, Phone Number, and 
 Addres* mengikuti perintah sama seperti memasukan *fullname*<br>
@@ -105,7 +105,7 @@ print("\n\n Assalamu'alaikum. ")
 1. Fungsi **\n** pada source code di atas adalah untuk memberi baris baru / enter / *(newline)*
 2. Fungsi print() seperti dijelaskan pada point **Output** diatas
 Hasil dari source code diatas adalah seperti gambar dibawah ini :<br>
-![Output Salam](Gambar1/printnama.PNG)
+![Output Salam](foto/printnama1.PNG)
 
 ``` python
 
