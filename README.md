@@ -28,28 +28,28 @@ print("= NIM     : 312010076         ") <br>
 print("= KELAS   : TI.20 A.1         ") <br>
 print("==============================") <br>
 
-`print("Please enter your full name : SHOBAHUS SOLICHIN")` <br>
-`fullname=input()` <br>
-`print("Please enter nickname : SHOBA")` <br>
-`nickname=input()` <br>
-`print("Please enter your NPM : 312010076")` <br>
-`npm=input()` <br>
-`print("Please enter place of birth : JAKARTA")` <br>
-`pob=input()` <br>
-`print("Please enter date of birth : 20 ")` <br> 
-`date=input()` <br>
-`print("Please enter your month of birth : DECEMBER")` <br>
-`month=input()` <br>
-`print("Please enter year of birth : 2001") <br>
-`year=int(input())` <br>
-`print("Please enter your phone number : 081297995301")`
-`phone=input()`
-`print("Please enter your address : Perum.Citra Graha Prima")`
-`address=input()`
+print("Please enter your full name :") 
+fullname=input()
+print("Please enter nickname :") 
+nickname=input() 
+print("Please enter your NPM :") 
+npm=input() 
+print("Please enter place of birth :") 
+pob=input() 
+print("Please enter date of birth :")`  
+date=input() 
+print("Please enter your month of birth :") 
+month=input()print
+("Please enter year of birth :") 
+year=int(input())
+print("Please enter your phone number :")
+phone=input()
+print("Please enter your address : ")`
+address=input()
 
-`dob=input("2020-year")` <br>
+dob=input("2020-year") <br>
 
-`print("\n\n Assalamu'alaikum. ")` <br>
+print("\n\n Assalamu'alaikum. ") <br>
 print(f"Let me introduce my self, my name is {SHOBAHUS SOLICHIN}, but you can call me {SHOBA}, my NPM {31201006}, I was 
 born in{JAKARTA} and   i am {19} years old, I am very glad if you want to invite my house in {Perum.Citra Graha Prima}, 
 So don't forget to call me before with the number {081297995301}, \n\n Thanks you ")
@@ -255,7 +255,7 @@ Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, 
 menampilkan Operasi Aritmatika Pangkat.<br> 
 Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [bintang dua] )<br>
  Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10, dengan output  sebagai berikut : <br>
- ![Operasi Aritmatika Pangkat](Gambar1/outputstring.PNG)
+ ![Operasi Aritmatika Pangkat](foto/string.PNG)
  
  2 ** String Format 2** <br>
  Pada syntax atau source code string format dua akan menampilkan output berupa 2 output'an juga (seperti String Format 1, 
