@@ -281,7 +281,7 @@ print('{:<30}{:30}{:>30}'.format(10,20,25))
 
 ```
 Hasil dari source code contoh diatas akan muncul seperti ini :<br>
-![Output Alignment Contoh 2](Gambar1/hasil.PNG)
+![Output Alignment Contoh 2](foto/helikopter.PNG)
 <br><br>
 
 ## pertemuan 6 - Lab 2
