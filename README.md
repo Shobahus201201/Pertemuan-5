@@ -169,7 +169,7 @@ print('Y')
 print('z')
 ```
 Hasil dari source code tersebut seperti gambar dibawah ini :<br>
-![Output END](Gambar1/end.PNG)
+![Output END](foto/printend.PNG)
 
 * Penggunaan separator
 
