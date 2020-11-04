@@ -119,7 +119,7 @@ statement dalam satu baris dibandingkan dengan metode yang lama yaitu memisahkan
 , ) atau plus ( + )<br>
 2. sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
 Hasil dari output tersebut seperti berikut :<br>
-![All output](Gambar1/semua.PNG)
+![All output](foto/Allprint.PNG)
 
 <br>
 ---
