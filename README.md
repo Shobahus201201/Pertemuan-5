@@ -1,5 +1,6 @@
 # Pertemuan-5
 # Repository ini di buat untuk memenuhi tugas bahasa pemrograman pertemuan ke 6 <br> <br>
+![logo](foto/logo.png)
 Nama  : SHOBAHUS SOLICHIN<br>
 Nim   : 312010076<br>
 Kelas : TI.20 A.1<br><br>
@@ -311,4 +312,4 @@ print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 ### SHOBAHUS SOLICHIN / 312010076 / TI.20 A.1 <br>
 ### ===================================== <br>
 
-![foto](Gambar1/Al-Aqsa.jpg)
+![foto](foto/shoba1.jpg)
